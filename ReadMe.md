@@ -88,4 +88,5 @@ This chatbot project includes three main modules:
 ## 🙌 Conclusion
 
 This project demonstrates how a small conversational AI model can run locally, maintaining short-term context and producing natural responses.  
-I’m excited to share this as part of my internship application and would love the opportunity to contribute to your global AI initiatives!
+
+
