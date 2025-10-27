@@ -5,7 +5,7 @@ It maintains short-term conversational memory and generates context-aware respon
 
 ---
 This is the Demo Video
-https://drive.google.com/file/d/1fG8sJ5ByFuK8Twe5ejH4p7Aa7RSeVPW2/view?usp=sharing
+[Click here for the demo](https://drive.google.com/file/d/1fG8sJ5ByFuK8Twe5ejH4p7Aa7RSeVPW2/view?usp=sharing)
 
 ## ⚙️ Setup Instructions
 
