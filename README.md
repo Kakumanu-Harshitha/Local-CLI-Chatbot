@@ -4,6 +4,8 @@ A simple and lightweight command-line chatbot built using **Hugging Face’s `fa
 It maintains short-term conversational memory and generates context-aware responses directly from your local system — no internet API calls needed!
 
 ---
+This is the Demo Video
+https://drive.google.com/file/d/1fG8sJ5ByFuK8Twe5ejH4p7Aa7RSeVPW2/view?usp=sharing
 
 ## ⚙️ Setup Instructions
 
